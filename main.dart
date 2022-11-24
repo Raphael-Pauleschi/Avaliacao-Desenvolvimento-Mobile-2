@@ -53,7 +53,7 @@ class _HomeState extends State<Home>{
 
       
 
-      _info = 'Daqui ${ano} ano(s) os empréstimo será de 5000.00 ou +';
+      _info = 'Daqui ${ano} ano(s) os empréstimo será de maior do que 5000.00';
     
     });
   }
